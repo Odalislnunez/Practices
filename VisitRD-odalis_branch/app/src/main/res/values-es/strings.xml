@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Visita RD</string>
+    <string name="logo">Logo</string>
+    <string name="search">Buscar</string>
+    <string name="visits">Ver Visitas</string>
+    <string name="place_name">Nombre del Lugar</string>
+    <string name="place_location">Ubicación del Lugar</string>
+    <string name="description_label">Descripción</string>
+    <string name="description">Descripción</string>
+    <string name="comments_label">Comentarios</string>
+    <string name="user_name">Usuario</string>
+    <string name="comment_user">Comentario</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_maps">Maps Activity</string>
+    <string name="submit_rating">Submit Rating</string>
+    <string name="developers"><![CDATA[By {O & R}]]></string>
+    <string name="des">TODO</string>
+    <string name="places">Places</string>
+    <string name="textview">TextView</string>
+    <string name="lugares_para_visitar">Lugares para visitar</string>
+    <string name="lugar">Lugar</string>
+    <string name="des1">Des</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="submit_rating">Submit Rating</string>
+    <string name="developers"><![CDATA[By {O & R}]]></string>
+    <string name="des">TODO</string>
+    <string name="places">Places</string>
+    <string name="textview">TextView</string>
+    <string name="lugares_para_visitar">Lugares para visitar</string>
+    <string name="lugar">Lugar</string>
+    <string name="des1">Des</string>
+</resources>
